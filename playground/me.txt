@@ -1,5 +1,0 @@
-{{#user}}
-Name: Surakshith D T
-Skills: Manual Testing, Figma, Web devolopment, C, C++, Java, Python
-Email: Surakshithsurakshith5@gmail.com
-{{/user}}
